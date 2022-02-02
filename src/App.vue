@@ -1,14 +1,14 @@
 <template>
-  <encabezado msg="Welcome to Your Vue.js App" />
+  <encabezado/>
   <div class="container">
     <migas />
     <div class="estilocuerpo">
        <cuerpoizq />
-      <cuerpo msg="Welcome to Your Vue.js App" />
+      <cuerpo/>
      
     </div>
   </div>
-  <pie msg="Welcome to Your Vue.js App" />
+  <pie />
 </template>
 
 <script>
